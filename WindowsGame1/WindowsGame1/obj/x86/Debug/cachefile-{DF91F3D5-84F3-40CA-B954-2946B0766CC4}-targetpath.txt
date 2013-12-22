@@ -1,0 +1,3 @@
+Content\SpriteFont1.xnb
+Content\phithuyen.xnb
+Content\enemy1.xnb
